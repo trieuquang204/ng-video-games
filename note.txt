@@ -1,0 +1,3 @@
+b1: ng new project-name --style=scss
+ng add @angular/material
+yarn add angular-gauge
